@@ -17,7 +17,7 @@ Cara Install Via Android :
 
 Cara Membuka/Mengedit File :
 - Wajib Pakai Keyboard Hacker Download di PS<br>
-- cd LIN3-TCR && nano line-tcr.py<br>
+- cd LineTCR2 && nano line-tcr.py<br>
 - Selesai Edit Save CTRL + X Lalu Y, Dan Enter<br>
 - Keluarkan Termux<br>
 
