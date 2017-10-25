@@ -12,7 +12,7 @@ Cara Install Via Android :
 - pip2 install thrift==0.9.3<br>
 - pkg install git<br>
 - pkg install nano<br>
-- git clone https://github.com/andyihsan/LIN3-TCR<br>
+- git clone https://github.com/zgmzdiana/LineTCR2<br>
 - Selesai
 
 Cara Membuka/Mengedit File :
@@ -23,11 +23,10 @@ Cara Membuka/Mengedit File :
 
 Cara Membuka/Mengedit File Via Internal :
 - Smartphone Telah Di Root<br>
-- masuk root/data/data/com.termux/file/home/LIN3-TCR/line-tcr.py<br>
+- masuk root/data/data/com.termux/file/home/LineTCR2/linetcr2.py<br>
 
 Cara Menjalankan Bot :
-- cd LIN3-TCR && python2 line-tcr.py<br>
+- cd LineTCR2 && python2 linetcr2.py<br>
 - Loginkan Dengan Akun Bot Kalian Lalu Masukkan MID Admin
 
-Butuh Bantuan? Silahkan Masuk Ke Group, add : andyihsan ( khusus yg udah tau bot aja )
 Edited by Yana
