@@ -2,7 +2,7 @@
 BOT Chivas Edited V.2 Login Token / Link
 
 Catatan : 
-- Bot Ini Menggunakan 10 Akun Bot + 1 Akun admin <br>
+- Bot Ini Menggunakan 5 Akun Bot + 1 Akun admin <br>
 
 Cara Install Via Android :
 - Download Termux & Install<br>
@@ -30,3 +30,4 @@ Cara Menjalankan Bot :
 - Loginkan Dengan Akun Bot Kalian Lalu Masukkan MID Admin
 
 Butuh Bantuan? Silahkan Masuk Ke Group, add : andyihsan ( khusus yg udah tau bot aja )
+Edited by Yana
